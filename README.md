@@ -1,2 +1,2 @@
 # retropie-moonlight-game-list
-Update list of games in retropie with moolight list of games 
+Update list of games in retropie with moonlight list of games 
